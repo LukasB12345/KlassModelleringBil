@@ -8,7 +8,6 @@ public class Car {
 
     private int value;
 
-
     //Constructor
     public Car(int id, String brand, int value) {
         this.id = id; //this syftar på objektets (bilens) attribut
